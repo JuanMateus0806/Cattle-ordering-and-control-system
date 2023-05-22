@@ -1,4 +1,4 @@
 # Cattle-ordering-and-control-system
-Control y ordenamiento de bovinos
+Control y ordenamiento de bovios
 # version  de java : 19 o superior
-#Author  :Juan Sebastian Rodriguez Mateus
+# Autor: Juan Sebastian Rodriguez Mateus  
