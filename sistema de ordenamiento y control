@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T05:29:35.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QHMq8nXi6u1ONi6EmSq-" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T05:30:03.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="G9989wp9mJKSF6oyFwkB" version="21.3.7" type="github">
   <diagram name="Página-1" id="0gO8OIqotKDlZFg4Vbk1">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,9 @@
         <mxCell id="j1eDWFNj_UV0DOJhsA9_-13" value="view" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SlJYveNLfe6Q2QVYiADD-3" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;ContractControlAnd&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;OrderingSystem&lt;/i&gt;&lt;/p&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=65;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="270" width="130" height="142" as="geometry">
-            <mxRectangle x="420" y="270" width="130" height="50" as="alternateBounds" />
+        <mxCell id="SlJYveNLfe6Q2QVYiADD-3" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;ContractControlAnd&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;OrderingSystem&lt;/i&gt;&lt;/p&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=65;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="270" width="130" height="50" as="geometry">
+            <mxRectangle x="420" y="270" width="130" height="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SlJYveNLfe6Q2QVYiADD-4" value="model(): Interface" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SlJYveNLfe6Q2QVYiADD-3" vertex="1">
